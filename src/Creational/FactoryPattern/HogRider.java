@@ -1,4 +1,4 @@
-package FactoryPattern;
+package Creational.FactoryPattern;
 
 public class HogRider implements Troop {
     @Override

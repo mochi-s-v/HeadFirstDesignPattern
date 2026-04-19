@@ -1,4 +1,4 @@
-package StrategyPattern;
+package Behavioral.StratergyPattern;
 
 // payment example
 // strategy number 1

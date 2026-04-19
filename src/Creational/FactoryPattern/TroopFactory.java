@@ -1,4 +1,4 @@
-package FactoryPattern;
+package Creational.FactoryPattern;
 
 public class TroopFactory {
     public static Troop createTroop(String troopName) {

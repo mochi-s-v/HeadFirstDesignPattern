@@ -1,4 +1,4 @@
-package FacadePattern;
+package Structural.FacadePattern;
 
 class BankingFacade {
     private AccountService accountService;

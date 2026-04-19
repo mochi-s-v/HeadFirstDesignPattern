@@ -1,4 +1,4 @@
-package FactoryPattern;
+package Creational.FactoryPattern;
 
 public class Barbarian implements Troop{
     @Override

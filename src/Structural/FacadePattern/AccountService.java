@@ -1,4 +1,4 @@
-package FacadePattern;
+package Structural.FacadePattern;
 
 class AccountService {
     public void getAccountDetails(String accountId) {

@@ -1,4 +1,4 @@
-package FactoryPattern;
+package Creational.FactoryPattern;
 
 public class Violation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FacadePattern;
+package Structural.FacadePattern;
 
 class NotificationService {
     public void sendNotifications(String fromAccount, double amount, String billId) {

@@ -1,4 +1,4 @@
-package StrategyPattern;
+package Behavioral.StratergyPattern;
 
 
 interface FlyingBehaviour {

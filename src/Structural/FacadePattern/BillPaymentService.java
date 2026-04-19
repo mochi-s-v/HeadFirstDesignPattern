@@ -1,4 +1,4 @@
-package FacadePattern;
+package Structural.FacadePattern;
 
 public class BillPaymentService {
     public void payBill(String accountId, String billId, double amount) {

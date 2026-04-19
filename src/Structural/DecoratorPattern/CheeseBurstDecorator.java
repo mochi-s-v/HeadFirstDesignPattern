@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package Structural.DecoratorPattern;
 
 public class CheeseBurstDecorator extends PizzaDecorator{
     public CheeseBurstDecorator(Pizza pizza) {
